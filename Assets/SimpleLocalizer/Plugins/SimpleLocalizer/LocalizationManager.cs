@@ -5,7 +5,7 @@ using USingleton;
 
 namespace SimpleLocalization
 {
-    public class LocalizationManager : GameSingleton <LocalizationManager>
+    public partial class LocalizationManager : GameSingleton <LocalizationManager>
     {
         protected SimpleLocalizer _simpleLocalizer;
 
