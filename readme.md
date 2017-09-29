@@ -6,6 +6,10 @@ To include SimpleLocalization into your project, you can use `npm` method of uni
 
 ## Changelog
 
+**0.0.2**
+
+* Fix incorrect directory
+
 **0.0.1**
 
 * Initial commit
